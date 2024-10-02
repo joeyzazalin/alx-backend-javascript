@@ -1,5 +1,6 @@
+// The implementation of task 0
 export function taskFirst() {
-  const task = 'I prefer const when i can.';
+  const task = 'I prefer const when I can.';
   return task;
 }
 
